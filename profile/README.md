@@ -24,43 +24,6 @@ The project therefore asks:
 
 > How can demand of interest, such as electric cooking and e-mobility, be identified, verified, and supported through targeted household tariffs during a tariff reform process, such as that in Kenya, without introducing incompatibility with the existing household metering infrastructure?
 
-## Standards foundation
-
-DSI is being developed to work as an extension of the STS and IEC standards environment that utilities already trust.
-
-### Why STS matters
-
-The **Standard Transfer Specification (STS)** is the global standard for the transfer of electricity and other utility prepayment tokens. It is designed to ensure interoperability between system components from different manufacturers. The STS Association describes STS as a widely used, open IEC standard with a large vendor ecosystem, global key-management support, and strong interoperability.
-
-This is why STS is the **de-facto approach** for prepaid electricity markets in many countries:
-
-- It is already widely deployed in utility metering systems.
-- It is recognised through the **IEC 62055** standards family.
-- It supports interoperability across vendors and utilities.
-- It is backed by the STS Association’s governance, certification, and key-management services.
-- It fits the practical reality of existing household metering infrastructure, especially in Africa and other prepaid markets.
-
-For DSI, this matters because targeted tariffs will only scale if they can work with the infrastructure that utilities already operate. Rather than proposing an entirely separate measurement and settlement path, DSI is intended to align appliance-level and clip-on telemetry approaches with the same metering and payment environment utilities already use.
-
-### How DSI leverages the standards ecosystem
-
-DSI is designed to build on the **STS Association and IEC standards ecosystem**, rather than bypass it.
-
-In practical terms, this means:
-
-- Aligning with the **IEC 62055** STS framework where tariff application, tokenisation, and utility-side processes are relevant.
-- Designing metering and telemetry concepts that can be reconciled with the utility meter, rather than relying only on third-party appliance readings.
-- Using recognised **IEC metering and testing standards** as the basis for measurement credibility, accuracy, and product acceptance.
-- Creating a pathway that utilities, regulators, manufacturers, and programme partners can recognise as technically credible.
-
-### STS Association global footprint
-
-The official STS Association footprint shows the breadth of the ecosystem and why it remains the practical reference point for prepaid electricity markets.
-
-![STS Association global footprint](sts-association-global-footprint.png)
-
-*Source: STS Association membership status report / global footprint map.*
-
 ## The approach
 
 Our approach is to develop and test a practical system that makes specific household electricity uses visible and tariff-ready. The first focus is electric cooking and e-mobility charging.
