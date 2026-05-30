@@ -1,6 +1,6 @@
 # Demand Stimulation Initiative (DSI)
 
-**Enabling appliance-specific tariffs for emerging household electricity demand.**
+**Disaggregating and incentivising productive household electricity demand**
 
 The Demand Stimulation Initiative is an R&D project focused on enabling targeted electricity tariffs for specific household uses, starting with electric cooking and e-mobility charging.
 
